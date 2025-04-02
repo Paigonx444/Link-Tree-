@@ -12,7 +12,7 @@
     --dark-grey: #1F1F1F;
     --white: #FFF;
     --grey: #333333;
-    --neon-green: #C4f82A;
+    --neon-green: #C4F82A;
 }
 
 body {
@@ -67,7 +67,7 @@ strong {
 
 p {
     margin-block: 24px;
-    font-size: 14px
+    font-size: 14px;
 }
 
 a:hover {
